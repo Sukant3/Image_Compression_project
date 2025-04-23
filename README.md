@@ -10,11 +10,14 @@ This technique is particularly useful for reducing the size of large images. By 
 _______________
 
 🛠️ Tech Stack
+
 Python 
+
 Gradio(User Interface)
 ________________
 
 ⚙️ How It Works ?
+
 Converting Image to Numpy Array: We start by converting the input image into a numpy array for further processing.
 Resizing the Image: We dynamically resize the image based on its aspect ratio, ensuring that the visual quality is preserved.
 Applying K-Means Clustering: We group similar colors together using K-Means clustering, reducing the number of unique colors and compressing the image.
