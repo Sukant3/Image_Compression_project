@@ -2,6 +2,7 @@
 
 __________
 🚀 Overview 
+
 Project showcases a novel image compression method using the K-Means clustering algorithm. By reducing the number of colors in an image, we achieve significant size reduction. ”
 This technique is ideal for large images, providing a balance between compression and fidelity. By partitioning the color space into clusters and mapping pixels to their closest cluster, we simplify the image without compromising quality heavily. 
 
